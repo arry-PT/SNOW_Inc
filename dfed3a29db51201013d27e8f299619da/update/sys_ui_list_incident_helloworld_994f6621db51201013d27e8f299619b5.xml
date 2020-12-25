@@ -2,33 +2,408 @@
     <sys_ui_list parent="" relationship="" sys_domain="994f6621db51201013d27e8f299619b5" table="incident" version="2" view="helloworld">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>business_duration</element>
-            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="994f6621db51201013d27e8f299619b5" view="eddfaa21db51201013d27e8f29961977">4e4f7669db51201013d27e8f299619f3</list_id>
+            <element>active</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>arindam.sarkar@snc</sys_created_by>
-            <sys_created_on>2020-12-25 12:25:51</sys_created_on>
-            <sys_id>024f7669db51201013d27e8f299619f5</sys_id>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>b66083a9db51201013d27e8f299619b7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
-            <sys_updated_on>2020-12-25 12:25:51</sys_updated_on>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>business_stc</element>
-            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="994f6621db51201013d27e8f299619b5" view="eddfaa21db51201013d27e8f29961977">4e4f7669db51201013d27e8f299619f3</list_id>
+            <element>activity_due</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>arindam.sarkar@snc</sys_created_by>
-            <sys_created_on>2020-12-25 12:25:51</sys_created_on>
-            <sys_id>824f7669db51201013d27e8f299619f5</sys_id>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>3a6083a9db51201013d27e8f299619b7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
-            <sys_updated_on>2020-12-25 12:25:51</sys_updated_on>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_end</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>ba6083a9db51201013d27e8f299619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_start</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>3e6083a9db51201013d27e8f299619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>additional_assignee_list</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>be6083a9db51201013d27e8f299619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>326083a9db51201013d27e8f299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>b26083a9db51201013d27e8f299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval_history</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>366083a9db51201013d27e8f299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval_set</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>b66083a9db51201013d27e8f299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>3a6083a9db51201013d27e8f299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>ba6083a9db51201013d27e8f299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>caller_id</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>3e6083a9db51201013d27e8f299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>be6083a9db51201013d27e8f299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>caused_by</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>326083a9db51201013d27e8f299619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>rfc</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>b26083a9db51201013d27e8f299619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>child_incidents</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>366083a9db51201013d27e8f299619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>closed_at</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>b66083a9db51201013d27e8f299619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>closed_by</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>3a6083a9db51201013d27e8f299619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments_and_work_notes</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>ba6083a9db51201013d27e8f299619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>3e6083a9db51201013d27e8f299619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cmdb_ci</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>be6083a9db51201013d27e8f299619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contact_type</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>326083a9db51201013d27e8f299619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contract</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>b26083a9db51201013d27e8f299619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>correlation_id</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>366083a9db51201013d27e8f299619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>correlation_display</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>b66083a9db51201013d27e8f299619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>3a6083a9db51201013d27e8f299619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="incident" element="NULL" name="incident" parent="NULL" relationship="NULL" sys_domain="global" view="eddfaa21db51201013d27e8f29961977">3e6083a9db51201013d27e8f299619b6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>arindam.sarkar@snc</sys_created_by>
+            <sys_created_on>2020-12-25 12:30:49</sys_created_on>
+            <sys_id>ba6083a9db51201013d27e8f299619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>arindam.sarkar@snc</sys_updated_by>
+            <sys_updated_on>2020-12-25 12:30:49</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
